@@ -1,6 +1,8 @@
 # Nanoindentation data processing with MATLAB
 In this repository you can find live scripts and apps - designed with App Designer - to analyze and postprocess nanoindentation data of the iMicro, from KLA Instruments, and the FT-NMT04, from FemtoTools, nanoindenters. Contour plots and hardness/elastic modulus dependence with indentation depth are plotted.
 
+To open the scripts and apps, download the files and open them in MATLAB.
+
 ## Table of contents
 - [Scripts](#Scripts)
 - [Apps](#Apps)
