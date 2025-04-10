@@ -26,8 +26,7 @@ Errors may raise from unexpected test data format. Please, pay attention to the 
 - **FT-NMT04**: data must be in .txt format, including Hardness [MPa], Reduced Mod. [MPa], Pos Y [um] and Pos Z [um] columns.
 
 ## Author
-[Francesc Barbera Flichi](https://www.linkedin.com/in/francescbarberaflichi/)
-[CIEFMA - Center for Research in Structural Integrity, Reliability and Micromechanics of Materials](https://ciefma.upc.edu/es)
+[Francesc Barbera Flichi](https://www.linkedin.com/in/francescbarberaflichi/), from [CIEFMA - Center for Research in Structural Integrity, Reliability and Micromechanics of Materials](https://ciefma.upc.edu/es)
 
 ## Acknowledgements
 Special thanks to [Laia Ortiz Membrado](https://github.com/laiaorme/High-speed-Nanoindentation-Data-Analysis-through-GMM-Clustering-and-Skew-Normal-Mixture.git) for actively contributing to the development of this work.
